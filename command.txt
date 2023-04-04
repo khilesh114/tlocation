@@ -1,0 +1,11 @@
+Tool tlocation install  command
+Is too se ap information gathering ka sakate hai 
+$ termux-stup-storage
+$ pkg install python
+$ pkg install termux-api
+$ pkg install git
+$ termux-storage-setup
+$ pkg install python3 
+$ https://github.com/khilesh114/tlocation
+$ cd tlocation
+$ python3 tlocation.py
